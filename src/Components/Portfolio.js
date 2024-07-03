@@ -52,7 +52,7 @@ const projectList = [
     title: "GUI based LMS",
     description:
       "Developed a GUI-based library management system using Python’s Tk- inter library and MySQL for backend database management.",
-    url: "tps://github.com/Kartik-Ranaut/Library-management-GUI-.git",
+    url: "https://github.com/Kartik-Ranaut/Library-management-GUI-.git",
   },
 ];
 
